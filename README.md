@@ -1,5 +1,5 @@
 # Elevator-destination-controller
-In this project i represented with PDDL, a planning problem about an elevator destination controller that exists in a building and manages
+In this project, i represented with PDDL a planning problem about an elevator destination controller that exists in a building and manages
 the calls of the different elevators.We assume that each elevator serves a subset of all of the building's floors.In domain.pddl file,the domain
 of the initial planning problem is defined and in problem.pddl a problem (instance of the domain) of the initial planning problem is defined.For 
 the problem that is defined in problem.pddl we assume that there are 6 floors,3 elevators and 5 users.Also, that the fisrt elevator serves the 1,2,3
